@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.nav-item {
+	margin: 2px;
+}
+
+#logo {
+	height: 75px;
+	width: 111px;
+}
