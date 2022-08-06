@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+#regcontainer {
+	background-color: lightblue;
+	padding: 40px;
+	border-radius: 10px;
+	width: 55%;
+	position: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

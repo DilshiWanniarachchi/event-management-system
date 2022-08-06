@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+#contact {
+	margin-top: 40px;
+}
+
+#msgbox {
+	height: 150px;
+}
+
+#form {
+	padding: 30px;
+	border-radius: 10px;
+	margin-left: 40px;
+}
+

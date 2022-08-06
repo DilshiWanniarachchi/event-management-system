@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+#container {
+	background-color: rgba(0, 0, 77, 0.9);
+	padding: 50px;
+	border-radius: 10px;
+	width: 30%;
+	position: center;
+	color: #fff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#avatar {
+	border-radius: 50%;
+	height: 160px;
+	width: 160px;
+}

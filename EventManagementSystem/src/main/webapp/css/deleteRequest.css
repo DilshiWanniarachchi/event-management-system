@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+.container {
+	background-color: #ffb3b3;
+	padding: 40px;
+	width: 55%;
+	position: center;
+	margin: 30px;
+	margin-left: 25%;
+}
+

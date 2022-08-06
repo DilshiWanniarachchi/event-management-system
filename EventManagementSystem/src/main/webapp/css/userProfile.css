@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+.container {
+	width: 100%;
+	margin: 10px;
+}
+
+#userdetails {
+	table-layout: fixed;
+	background: #fff;
+	background: #e6e6e6;
+}
+
+#heading {
+	text-align: center;
+}
+
+img {
+	height: 160px;
+	width: 160px;
+}
+
+input[type=button] {
+	margin: 10px;
+}
+
+.card {
+	margin: 8px;
+	background: #e6e6e6;
+}
+
+
+

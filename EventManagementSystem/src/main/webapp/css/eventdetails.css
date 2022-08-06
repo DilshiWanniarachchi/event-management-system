@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+#delete {
+	float: right;
+}
+
+table {
+	font-size: 18px;
+}
+
+#event {
+	margin: 20px;
+	margin-left: 100px;
+}
+
+.table-primary {
+	text-align: center;
+}
+
+

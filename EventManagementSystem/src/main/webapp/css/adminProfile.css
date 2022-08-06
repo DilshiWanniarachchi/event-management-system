@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+#adminprofile {
+	margin-left: 140px;
+	margin-top: 40px;
+	width: 80%;
+	font-size: 17px;
+}
+
+#heading {
+	text-align: center;
+}
+
+img {
+	height: 160px;
+	width: 160px;
+}
+
+input[type=button] {
+	display: inline-block;
+	margin: 10px auto;
+	width: 250px;
+}
+
+a {display: inline-block}
+

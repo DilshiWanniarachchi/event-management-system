@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body{
+background: #FFCDD2;
+background: linear-gradient(to right, #E0E0E0, #adb5bd)
+}
+
+.container {
+	background-color: lightgreen;
+	padding: 40px;
+	border-radius: 10px;
+	width: 55%;
+	position: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 20), 0 4px 10px 4px rgba(0, 0, 0, 20);
+	margin-top: 20px;
+}
+
+textarea {
+	height:100px;
+}
+
+#resetbtn {
+	float: right;
+}
